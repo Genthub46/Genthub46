@@ -14,7 +14,7 @@ I build production React, Next.js, and TypeScript web platforms, engineer reliab
 | **Zarhrah Luxury Collections** | Live luxury fashion & lifestyle e-commerce storefront with Paystack HMAC-SHA512 webhook verification, Firebase Cloud Functions, TOTP 2FA admin portal, and PDF invoicing. | `React 19` `TypeScript` `Vite` `Tailwind CSS` `Firebase` `Paystack` | [zarhrahluxurycollections.com](https://zarhrahluxurycollections.com) · [Source Repo](https://github.com/Genthub46/Zarhrah-Luxury-Storefront) |
 | **Chrizgodson Boutique** | Live luxury sneakers & streetwear storefront with responsive product browsing, Paystack online checkout, and automated Resend order confirmation pipelines. | `React` `TypeScript` `Vite` `Paystack APIs` `Resend` | [chrizgodson.com](https://chrizgodson.com) |
 | **Blend & Beauty** | Production cosmetics & beauty e-commerce storefront featuring mobile-first product discovery and integrated Paystack checkout. | `React` `TypeScript` `Tailwind CSS` `Paystack` | [blendandbeauty.com.ng](https://blendandbeauty.com.ng) |
-| **Gentree Studio Portfolio** | Personal engineering portfolio showcasing production client storefronts, system architectures, and verified credentials. | `React` `TypeScript` `Vite` `Tailwind CSS` | [Source Repo](https://github.com/Genthub46/Gentree-Studio) |
+| **Gentree Studio Portfolio** | Personal engineering portfolio showcasing production client storefronts, system architectures, and verified credentials. | `React` `TypeScript` `Vite` `Tailwind CSS` | [gentree-studio.web.app](https://gentree-studio.web.app) · [Source Repo](https://github.com/Genthub46/Gentree-Studio) |
 
 ---
 
@@ -49,5 +49,6 @@ I build production React, Next.js, and TypeScript web platforms, engineer reliab
 
 ### Connect
 
+- **Portfolio:** [gentree-studio.web.app](https://gentree-studio.web.app)
 - **Email:** [mukhtam083@gmail.com](mailto:mukhtam083@gmail.com)
 - **WhatsApp:** [+234 810 169 6951](https://wa.me/2348101696951)
