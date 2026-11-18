@@ -42,10 +42,9 @@ I build production React, Next.js, and TypeScript web platforms, engineer reliab
 
 ---
 
-### Education & Recognition
+### Education
 
 - **B.Sc. Computer Science** — Usmanu Danfodiyo University, Sokoto (UDUS), Expected Sept 2027
-- **Innovation Challenge Finalist** — NBTI Innovation Challenge
 
 ### Connect
 
